@@ -1,0 +1,9 @@
+[package]
+name = "praticalmacros"
+version = "0.1.0"
+authors = ["Allan Silva <allan.silva@netshoes.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
